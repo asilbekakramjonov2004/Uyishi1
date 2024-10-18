@@ -84,4 +84,4 @@ with open("Kutubxona.txt", "w+") as f:
             print("Mavjud bo'lmagan bo'lim tanladingiz. Qaytadan urunib koring!!!")
             pr()
     pr()
-        
+    
